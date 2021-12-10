@@ -1,0 +1,21 @@
+E:\上海大学\计算思维实训\Examine and approve system\bin\Debug\Examine and approve system.exe.config
+E:\上海大学\计算思维实训\Examine and approve system\bin\Debug\Examine and approve system.exe
+E:\上海大学\计算思维实训\Examine and approve system\bin\Debug\Examine and approve system.pdb
+E:\上海大学\计算思维实训\Examine and approve system\bin\Debug\MySql.Data.dll
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine and approve system.csproj.AssemblyReference.cache
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine_and_approve_system.Properties.Resources.resources
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine and approve system.csproj.GenerateResource.cache
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine and approve system.csproj.CoreCompileInputs.cache
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine and approve system.exe
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine and approve system.pdb
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine_and_approve_system.kz.resources
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine_and_approve_system.login.resources
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine_and_approve_system.cz.resources
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine_and_approve_system.ky.resources
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine_and_approve_system.orderky.resources
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine_and_approve_system.orderkz.resources
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine_and_approve_system.orderListky.resources
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine_and_approve_system.orderListkz.resources
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine_and_approve_system.ky_add.resources
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine_and_approve_system.Query_details.resources
+E:\上海大学\计算思维实训\Examine and approve system\obj\Debug\Examine_and_approve_system.ordercz.resources
